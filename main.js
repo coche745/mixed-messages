@@ -1,8 +1,3 @@
-/* The Plan
-topic will be philosophical quotes
-i will store the messages in an array for now. maybe an object later but we'll see.
-*/
-
 const quotesArr = [
     'For as he thinketh in his heart, so is he - Proverbs 23:7', 
     'I assess the power of a will by how much resistance, pain, torture it endures and knows how to turn to its advantage. - Nietzsche',
