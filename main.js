@@ -23,6 +23,7 @@ const quotesArr = [
     "I tell you the truth, it is hard for a rich man to enter the kingdom of heaven. Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of heaven. - Jesus Christ", 
     "Blessed are the meek, for they will inherit the earth. - Jesus Christ",
     "And Jesus said unto the centurion, Go thy way; and as thou hast believed, so be it done unto thee. And his servant was healed in the selfsame hour. - Matthew 9:29", 
+    "Do not let your hearts be troubled. Trust in God; trust also in me. - Jesus Christ", 
     "Concentrate the mind on the present moment. - Buddha", 
     "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves. - Buddha", 
     "Those who are free of resentful thoughts surely find peace. - Buddha", 
